@@ -1,0 +1,13 @@
+# Environment and IDE files
+.idea/
+.venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# System-specific files
+.DS_Store
+Thumbs.db
+
